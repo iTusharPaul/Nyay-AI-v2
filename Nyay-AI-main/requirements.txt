@@ -10,3 +10,6 @@ crewai
 litellm
 groq
 python-dotenv
+langchain
+langchain-core
+langchain-chroma
