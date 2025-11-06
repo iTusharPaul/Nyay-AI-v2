@@ -15,4 +15,5 @@ langchain-core
 langchain-chroma
 langchain-huggingface
 tavily-python
+PyPDF2
 
