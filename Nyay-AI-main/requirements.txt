@@ -17,6 +17,6 @@ langchain-huggingface
 tavily-python
 PyPDF2
 docx
-io
+
 
 
