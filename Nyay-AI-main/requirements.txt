@@ -17,3 +17,4 @@ langchain-huggingface
 tavily-python
 PyPDF2
 python-docx
+reportlab
