@@ -16,4 +16,4 @@ langchain-chroma
 langchain-huggingface
 tavily-python
 PyPDF2
-docx
+python-docx
